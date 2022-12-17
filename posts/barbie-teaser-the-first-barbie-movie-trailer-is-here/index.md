@@ -2,40 +2,40 @@
 name: "Barbie Teaser: The First Barbie Movie Trailer Is Here"
 slug: "barbie-teaser-the-first-barbie-movie-trailer-is-here"
 description: "Canada's #1 Fashion and Beauty Magazine"
-createdAt: "2022-12-17T12:02:26.332428"
-updatedAt: "2022-12-17T12:02:26.332445"
-image: "be5226f8-c2a9-4940-bf4d-bf7b88807a70"
+createdAt: "2022-12-17T12:12:36.382245"
+updatedAt: "2022-12-17T12:12:36.382260"
+image: "c5eb75a5-d13b-4b19-8b87-314d68f9c5f0"
 authors: ["Sample Author"]
 tags: ["Sample Tag"]
 ---
-Here's the first Barbie teaser trailer
-======================================
+The First Barbie Teaser Trailer Is Here
+=======================================
 
-Maybe it's just a neon-splattered fever dream? 
+Or is it just a neon-splattered fever dream? 
 
-By the time Barbie actually comes out in July 2023, will we all be sick of singing "Come on Barbie, let's party?"? The question is not entirely unfair, considering how long the film has been teased. Even though Barbie's first official teaser just dropped, the film has been in its hype phase for much longer.
+Do you think we’ll all be a little sick of singing “come on Barbie, let’s go party?” by the time Barbie actually comes out in July 2023? Considering how long the film has been teased already, it’s not an entirely unfair question. Despite the fact that the first official Barbie teaser just dropped, the film has been in its hype era for way longer.
 
-It wasn't long ago that the internet couldn't stop obsessing over images of Margot Robbie and Ryan Gosling rollerblading on Venice Beach in neon 'fits, spray-tanned to golden California deliciousness. It was confirmed in April that Robbie was going to be the iconic Mattel doll, a casting that had been rumored for a very long time. But the movie itself has been in the works since 2014 (! ), according to Entertainment Weekly. Here's everything you need to know about the buzzy Barbie movie.
+In July of this year, the internet couldn’t stop obsessing over images of Margot Robbie and Ryan Gosling, spray tanned to golden California deliciousness, rollerblading at Venice Beach in blinding neon ’fits. News of Robbie’s casting as the iconic Mattel doll was confirmed in April but rumoured for far longer. But the film itself, a live action adaptation of Barbie world, has been in the works since 2014 (!), according to Entertainment Weekly. Here’s the scoop on that, plus everything else to know about the buzzy Barbie movie.
 
-Is Barbie coming out soon?
---------------------------
+When is Barbie going to be released?
+------------------------------------
 
-In 2023, the film will be released.
+The film is slated to be released on July 21, 2023.
 
-Barbie's live-action movie stars who?
--------------------------------------
+Who is starring in the live-action Barbie movie?
+------------------------------------------------
 
-Margot Robbie plays the title character in the film directed by Greta Gerwig, and Ryan Gosling plays Ken in the film, which was co-written by Gosling and Robbie. Along with the plastic power couple, the teaser trailer also features a star-studded cast. A few of the actors included are Issa Rae, Canadian Simu Liu, Kate McKinnon, Alexandra Shipp, America Ferrera, Hari Nef, and Will Ferrell.
+The film, directed by Greta Gerwig, stars Margot Robbie as the titular doll and Ryan Gosling as (who else?) Ken. And alongside the plastic power couple is a seriously star-studded cast, some of who appear in the teaser trailer. This includes Issa Rae, Canadian Simu Liu, Kate McKinnon, Alexandra Shipp, America Ferrera, Hari Nef and Will Ferrell.
 
-Didn't Amy Schumer originally intend to play Barbie?
-----------------------------------------------------
+Wasn’t Amy Schumer originally going to play Barbie?
+---------------------------------------------------
 
-Yes, that's correct. Sony initially approached Schumer to star as the blonde doll in 2016 when the film was being developed. In 2017, the comedian stepped away from the project due to "creative differences," with Sony rumoured to be wooing Anne Hathaway. In 2019, it moved to Warner Bros. and Gerwig, who directed Lady Bird and Little Women, took over directing.
+That is correct. Schumer was initially tapped to star as the blonde doll in 2016 when the film, billed as a new feminist take on the famous 1950s doll, was in development by Sony. The comedian left the project in 2017 due to “creative differences,” with Sony rumoured to have been wooing Anne Hathaway for the role. More delays sidelined the film and in 2019, it moved over to Warner Bros. and Gerwig, famous for directing Lady Bird and Little Women, took over.
 
-Do you know what happens in the Barbie teaser trailer?
-------------------------------------------------------
+What happens in the Barbie teaser trailer?
+------------------------------------------
 
-Here's what you can see for yourself, but basically nothing...and everything. She's wearing a classic striped bather and open-toe mules, dressed in a dusty desert at the dawn of time. Bangs are curled super tight. We see Ryan Gosling in a fringed leather vest with bronzed abs peeking out. A few snippets of Issa Rae and Simu Liu's dance numbers are shown. Oh, and a very pink Barbie world (Barbieland? Barbieverse?) behind Barbie. We don't get to see the Barbie RV, but then again, most of it flashes so quickly, it feels more like a fever dream than a Barbie teaser.
+Well, you can see for yourself below, but basically nothing…and everything. It’s got Margot Robbie’s Barbie emerging in a dusty desert at the dawn of time, clad in a classic striped bather and open-toe mules, naturally. There are super-tight curled bangs. We’ve got flashes of Ryan Gosling in a fringed leather vest with a 10-pack of bronzed abs peeking out underneath. There are brief snippets of dance numbers featuring Issa Rae and Simu Liu. Oh, and an image of Barbie looking out into a very pink Barbie world (Barbieland? Barbieverse?). I don’t think we get to see the Barbie RV but then again, most of it flashes so quickly, it feels more like a fever dream than a Barbie teaser.
 
-As the production rolls out more in the months to come, stay tuned. Life in plastic is amazing, after all.
+Stay tuned for more as the production inevitably rolls out more in the coming months. After all, life in plastic, it’s fantastic.
 
