@@ -5,8 +5,8 @@ description: "Sharon Osbourne has reportedly been hospitalized after suffering a
 createdAt: "2022-12-17T19:39:49.478711"
 updatedAt: "2022-12-17T19:39:49.478726"
 image: "8dd1e2d7-c794-456c-bc71-8229f7fb8abe"
-authors: []
-tags: []
+authors: ["Jane Doe"]
+tags: ["Sharon Osbourne", "Celebrity"]
 ---
 Sharon Osbourne has reportedly been hospitalized after suffering a medical emergency while on set for a new TV show.
 
@@ -41,4 +41,3 @@ Over the summer, the “Charm School” alum had actually been tending to her hu
 “Ozzy is doing well and on the road to recovery! Your love means the world to him.”
 
 Sharon and Ozzy have been married since 1982.
-
