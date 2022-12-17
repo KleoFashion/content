@@ -2,9 +2,9 @@
 name: "Barbie Teaser: The First Barbie Movie Trailer Is Here"
 slug: "barbie-teaser-the-first-barbie-movie-trailer-is-here"
 description: "Canada's #1 Fashion and Beauty Magazine"
-createdAt: "2022-12-17T12:12:36.382245"
-updatedAt: "2022-12-17T12:12:36.382260"
-image: "c5eb75a5-d13b-4b19-8b87-314d68f9c5f0"
+createdAt: "2022-12-17T12:13:10.960672"
+updatedAt: "2022-12-17T12:13:10.960686"
+image: "fba7dc02-efde-4cc3-aff6-a4f4ed033e53"
 authors: ["Sample Author"]
 tags: ["Sample Tag"]
 ---
