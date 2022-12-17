@@ -5,8 +5,8 @@ description: "Insiders explain what is really going on in the fractured relation
 createdAt: "2022-12-17T17:12:44.784858"
 updatedAt: "2022-12-17T17:12:44.784876"
 image: "eafb2f54-4ef2-4ad1-a6db-6882a18c79a2"
-authors: []
-tags: []
+authors: ["Jane Doe"]
+tags: ["Netflix"]
 ---
 At Princess Kate's carol concert on Thursday, King Charles, Queen Consort Camilla, and Prince William all attended the "Together at Christmas" event.
 
@@ -103,4 +103,3 @@ The prince confessed to Oprah Winfrey that he's in a space with William right no
 On January 10, Harry's memoir, "Spare," will be released, with doubtless more allegations against the royals.
 
 "How can you talk about your only sibling like that on TV?" asked the well-placed royal source.
-
