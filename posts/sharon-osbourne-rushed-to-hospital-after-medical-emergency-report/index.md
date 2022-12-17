@@ -5,8 +5,8 @@ description: "Sharon Osbourne has reportedly been hospitalized after suffering a
 createdAt: "2022-12-17T19:53:52.047749"
 updatedAt: "2022-12-17T19:53:52.047772"
 image: "bf8163d3-b5fc-42d0-b3b2-30af3017f1ab"
-authors: []
-tags: []
+authors: ["Jane Doe"]
+tags: ["Sharon Osbourne", "Celebrity"]
 ---
 Sharon Osbourne has reportedly been hospitalized after suffering a medical emergency while on set for a new TV show.
 
