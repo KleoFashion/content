@@ -5,8 +5,8 @@ description: "\"Zorro\" and \"Puss in Boots\" star Antonio Banderas, 62, says hi
 createdAt: "2022-12-17T19:54:52.595468"
 updatedAt: "2022-12-17T19:54:52.595489"
 image: "d527f045-7ead-4cd1-9fe1-8809b78321c0"
-authors: []
-tags: []
+authors: ["Jane Doe"]
+tags: ["Antonio Banderas", "Celebrity"]
 ---
 Antonio Banderas’ 2017 heart attack helped him reprioritize the important things in life.
 
@@ -37,4 +37,3 @@ Banderas — who is currently appearing on stage in Madrid in “Company” — 
 “Something has been written as we talk,” he teases, adding that the character will make sense for his Iberian accent.
 
 “Puss in Boots: The Last Wish” opens in theaters on Dec. 21.
-
